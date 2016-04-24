@@ -45,7 +45,10 @@
   },
   "dependencies": {},
   "description": "life cycle hooks for pure DOM elements",
-  "devDependencies": {},
+  "devDependencies": {
+    "randomcolor": "^0.4.4",
+    "yo-yo": "^1.1.1"
+  },
   "directories": {},
   "dist": {
     "shasum": "8a07a81ff6a63344d4535d56083019a6cddc8504",
